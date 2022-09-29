@@ -1,0 +1,5 @@
+1 - Quel est ton prénom ?
+2 - QUel est ton nom de famille ?
+3 - Quel est ton adresse mail ?
+4 - Quel est ton numéro de téléphone ?
+5 - Quel est ton numéro de sécurité sociale ?
